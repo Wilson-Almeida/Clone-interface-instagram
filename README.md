@@ -1,2 +1,4 @@
 # Clone-interface-instagram
-Estudando sobre flexbox para aperfeiçoar 
+Estudando sobre flex box para aperfeiçoar 
+e entendendo como funciona suas propriedades 
+Curso da Digital Innovation One
